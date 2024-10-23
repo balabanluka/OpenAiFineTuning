@@ -1,8 +1,8 @@
-# Fine-Tuning Example for AI Support Agent
+# Fine-Tuning Example for AI Support Agent :milky_way:
 
 This repository contains a sample JSONL file intended for fine-tuning language models, particularly in the context of building an AI support agent for corporate legal questions. The examples provided in the file represent a simplified structure for training the model to understand how to handle user queries and generate relevant responses based on corporate law regulations.
 
-## Purpose
+## Purpose :pushpin:
 
 The JSONL file (*training.jsonl*) in this repository is meant as a demonstration of the format required for fine-tuning a model, such as those provided by OpenAI. Fine-tuning allows a base model to specialize in answering a specific type of query—in this case, legal and corporate-related questions.
 
